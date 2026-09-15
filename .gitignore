@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+local_app/runs/
+local_app/validation/
+mpstats_profile/
+Request_loader/chrome_mpstats_profile/
+
+mpstats_cache.sqlite3
